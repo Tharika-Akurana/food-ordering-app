@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "940638865663",
+    "project_id": "mern-hotel-booking-app-8f88d",
+    "storage_bucket": "mern-hotel-booking-app-8f88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940638865663:android:43f276c854d545652ca4ca",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940638865663-dc1jvq5vn2ci14kb1fmgmd1g2lssphuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39IoFgin3yJnk2PEXIdNNoFHtVSdY_NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940638865663-dc1jvq5vn2ci14kb1fmgmd1g2lssphuc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940638865663-hs3oqo6p1i7qpci6loqq52f3l1r58l42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrderingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940638865663:android:1222d7251cac084e2ca4ca",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering_customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940638865663-dc1jvq5vn2ci14kb1fmgmd1g2lssphuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39IoFgin3yJnk2PEXIdNNoFHtVSdY_NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940638865663-dc1jvq5vn2ci14kb1fmgmd1g2lssphuc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940638865663-hs3oqo6p1i7qpci6loqq52f3l1r58l42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrderingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
